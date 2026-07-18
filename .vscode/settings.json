@@ -8,5 +8,5 @@
   "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
   "C_Cpp.intelliSenseEngine": "default",
   "editor.formatOnSave": true,
-  "clangd.enabled": false
+  "clangd.enable": false
 }
