@@ -12,6 +12,19 @@ This repository provides a cross-platform starter template for C++ 23 with:
 
 ## Quick start
 
+### Prerequisities
+
+**Windows**
+- MSVC Build Tools 2026+
+- [CMake 3.3.30+](https://cmake.org/download/)
+```
+cmake --version
+```
+- [Ninja build](https://github.com/ninja-build/ninja/releases)
+```
+ninja --version
+```
+
 ### Local development
 
 ```bash
